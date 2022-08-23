@@ -1,8 +1,8 @@
 <h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-<p> - My name is <strong>José Higor</strong> and I am twenty-two years old. </p>
+<p> - My name is <strong>José Higor</strong> and I am twenty-three years old. </p>
 <p> - 🎓&nbsp; I am graduated as <strong> Software Engineer</strong> by Uni-FACEF and I made a <strong>six years </strong> of English language at Wizard school. </p>
-<p> - 🔭&nbsp; <strong>Currently, I am studying and looking for opportunities in mobile and web software development, which I like so much.</p></strong>
+<p> - 🔭&nbsp; <strong>Currently, I am working in the Codebit company.</p></strong>
 
 <div> - 🏆&nbsp; <strong>My knowledges are</strong>:   
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,6 +26,7 @@
 <ul>
   <li>Database Design and Programming with SQL - Oracle Academy <br></li>
   <li>International Certificate of Proficiency in English - TOEIC(English Test for International Communication)</li>
+  <li>AWS - Solutions Architect - Associate</li>
 </ul>
 
  #
